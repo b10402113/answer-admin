@@ -162,6 +162,7 @@ a {
     display: block;
     color: #121212; }
     .chapter-item a .chapter-item-top {
+      font-weight: normal;
       font-size: 12px;
       line-height: 15px;
       color: #121212; }
@@ -198,6 +199,8 @@ a {
         font-size: 12px;
         line-height: 15px;
         color: #0000009A; }
+    .chaper-message-list .chapter-message-item .star_and_pen span:first-child {
+      margin-right: 24px; }
     .chaper-message-list .chapter-message-item .text-field {
       font-weight: normal;
       font-size: 14px;
